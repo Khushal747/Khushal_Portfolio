@@ -13,5 +13,4 @@ Software Developer Portfolio Template that helps you showcase your work and skil
 -  [ ] MacOS (probably)
 -  [X] IOs
    
-   
-![Screenshot (448)](https://user-images.githubusercontent.com/105562767/233844036-66c0dd5a-dfe4-4e28-abd7-00d213fda1f3.png)
+ ![Screenshot (449)](https://user-images.githubusercontent.com/105562767/233844117-a4f93ebb-99fb-43e7-9c66-82aa0e9a0fd0.png)
